@@ -434,7 +434,7 @@
 
                  /*__________________________*/
 
-        @media  screen and (max-width:429px) and (min-width:377px) {
+        @media  screen and (max-width:429px) and (min-width:90px) {
 
             #info_contener{
                 background-color: rgb(81, 134, 132);
