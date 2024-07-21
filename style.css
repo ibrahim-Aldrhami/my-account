@@ -60,3 +60,188 @@
     
     }
     /*-____________________________________________*/
+    
+    @media  screen and (max-width:1047px) and (min-width:979px) {
+
+        #info_contener{
+            background-color: rgb(81, 134, 132);
+            width: 30%;
+            height: 460px;
+        border-radius: 5%;
+        position:relative;
+        top: 100px;
+        left:400px;
+         box-shadow: 20px 20px 10px rgb(141, 139, 139);
+        }
+        
+        .infom_my{
+            /* border:2px solid rgb(217, 255, 0); */
+            padding: 10px;
+            position:relative;
+            top: 30px;
+       
+        
+        }
+        .About{
+            /* border:2px solid rgb(0, 255, 21); */
+            padding: 10px;
+            position:relative;
+            top: 50px;
+        
+        }.About h1{
+            /* background-color: red; */
+            font-size: 20px;
+        }
+        
+        #box_item{
+        /* border:2px solid red; */
+        border-top: 3px solid rgb(0, 0, 0);
+            margin: 0px;
+            border-radius: 10%;
+            display: flex;
+            position:relative;
+            top: 60px;
+        }
+        .item{
+            /* border:2px solid rgb(122, 109, 109); */
+            /* height: 100%; */
+            width: 10%;
+            padding: 10px;
+            margin: 0px 0px 0px 30px;
+            height: 20%;
+            position:relative;
+            top: 10px;
+            
+        
+        }
+        img{
+        width:100%;
+        
+        
+        }
+        
+        }
+        /*__________________________*/
+
+        @media  screen and (max-width:978px) and (min-width:837px) {
+
+            #info_contener{
+                background-color: rgb(81, 134, 132);
+                width: 35%;
+                height: 460px;
+            border-radius: 5%;
+            position:relative;
+            top: 100px;
+            left:400px;
+             box-shadow: 20px 20px 10px rgb(141, 139, 139);
+            }
+            
+            .infom_my{
+                /* border:2px solid rgb(217, 255, 0); */
+                padding: 10px;
+                position:relative;
+                top: 30px;
+           
+            
+            }
+            .About{
+                /* border:2px solid rgb(0, 255, 21); */
+                padding: 10px;
+                position:relative;
+                top: 50px;
+            
+            }.About h1{
+                /* background-color: red; */
+                font-size: 20px;
+            }
+            
+            #box_item{
+            /* border:2px solid red; */
+            border-top: 3px solid rgb(0, 0, 0);
+                margin: 0px;
+                border-radius: 10%;
+                display: flex;
+                position:relative;
+                top: 60px;
+            }
+            .item{
+                /* border:2px solid rgb(122, 109, 109); */
+                /* height: 100%; */
+                width: 10%;
+                padding: 10px;
+                margin: 0px 0px 0px 30px;
+                height: 20%;
+                position:relative;
+                top: 10px;
+                
+            
+            }
+            img{
+            width:100%;
+            
+            
+            }
+            
+            }
+              /*__________________________*/
+
+        @media  screen and (max-width:836px) and (min-width:735px) {
+
+            #info_contener{
+                background-color: rgb(81, 134, 132);
+                width: 40%;
+                height: 460px;
+            border-radius: 5%;
+            position:relative;
+            top: 100px;
+            left:400px;
+             box-shadow: 20px 20px 10px rgb(141, 139, 139);
+            }
+            
+            .infom_my{
+                /* border:2px solid rgb(217, 255, 0); */
+                padding: 10px;
+                position:relative;
+                top: 30px;
+           
+            
+            }
+            .About{
+                /* border:2px solid rgb(0, 255, 21); */
+                padding: 10px;
+                position:relative;
+                top: 50px;
+            
+            }.About h1{
+                /* background-color: red; */
+                font-size: 20px;
+            }
+            
+            #box_item{
+            /* border:2px solid red; */
+            border-top: 3px solid rgb(0, 0, 0);
+                margin: 0px;
+                border-radius: 10%;
+                display: flex;
+                position:relative;
+                top: 60px;
+            }
+            .item{
+                /* border:2px solid rgb(122, 109, 109); */
+                /* height: 100%; */
+                width: 10%;
+                padding: 10px;
+                margin: 0px 0px 0px 30px;
+                height: 20%;
+                position:relative;
+                top: 10px;
+                
+            
+            }
+            img{
+            width:100%;
+            
+            
+            }
+            
+            }
